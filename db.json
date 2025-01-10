@@ -1,4 +1,14 @@
-
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [],
+      "id": 1736499371457,
+      "content": "publishing to npm registry"
+    },
+    {
+      "tags": [],
+      "id": 1736499380560,
+      "content": "hello"
+    }
+  ]
 }
