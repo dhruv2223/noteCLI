@@ -1,3 +1,4 @@
+import fs from "node:fs/promises";
 import path from "node:path";
 const DB_PATH = path.resolve(
   new URL("../db.json", import.meta.url).pathname.replace(/^\/+/, ""),
