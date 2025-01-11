@@ -1,4 +1,4 @@
-# 📝 NoteCLI
+# 📝 noteCLI
 
 ## Description
 
