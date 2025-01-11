@@ -2,11 +2,11 @@
 
 ## Description
 
-NoteCLI is a simple and efficient command-line interface (CLI) application for managing your notes. Designed for developers and power users who prefer the speed and flexibility of the terminal, NoteCLI allows you to quickly create, view, and organize your notes without leaving your command-line environment.
+noteCLI is a simple and efficient command-line interface (CLI) application for managing your notes. Designed for developers and power users who prefer the speed and flexibility of the terminal, noteCLI allows you to quickly create, view, and organize your notes without leaving your command-line environment.
 
 ## Why
 
-In the age of graphical note-taking applications, many developers find it tedious to switch contexts between their terminal and other tools. NoteCLI was created to streamline the note-taking process for those who live in their terminal. Whether you're jotting down a quick idea, documenting a command, or organizing your to-do list, NoteCLI offers a no-frills, terminal-native solution to help you stay productive.
+In the age of graphical note-taking applications, many developers find it tedious to switch contexts between their terminal and other tools. noteCLI was created to streamline the note-taking process for those who live in their terminal. Whether you're jotting down a quick idea, documenting a command, or organizing your to-do list, noteCLI offers a no-frills, terminal-native solution to help you stay productive.
 
 ## 🚀 Quick Start
 
@@ -25,7 +25,7 @@ In the age of graphical note-taking applications, many developers find it tediou
    ```bash
    npm link
    ```
-4. Run NoteCLI using the `note` command:
+4. Run noteCLI using the `note` command:
    ```bash
    note <command>
    ```
